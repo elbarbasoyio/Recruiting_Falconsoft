@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUpXHAhGa1s3n8sZLeq5vEHGzkzfNiu5nYghq9LmjXWUTMLTWKYgRaqt4VF02iQgwkWft21ka+Di0Uy0J5P3Bg==",
+  "success": true,
+  "projectFilePath": "C:\\ProyectosCode\\unit-testing-mix\\ConsoleClienteHttp\\ConsoleClienteHttp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\copit\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
